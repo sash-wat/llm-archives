@@ -1,0 +1,62 @@
+Apple has poached dozens of artificial intelligence experts from Google and has created a secretive European laboratory in Zurich, as the tech giant builds a team to battle rivals in developing new AI models and products.
+
+According to a Financial Times analysis of hundreds of LinkedIn profiles as well as public job postings and research papers, the $2.7tn company has undertaken a hiring spree over recent years to expand its global AI and machine learning team.
+
+The iPhone maker has particularly targeted workers from Google, attracting at least 36 specialists from its rival since it poached John Giannandrea to be its top AI executive in 2018.
+
+While the majority of Apple’s AI team work from offices in California and Seattle, the tech group has also expanded a significant outpost in Zurich.
+
+Professor Luc Van Gool from Swiss university ETH Zurich said Apple’s acquisitions of two local AI start-ups — virtual reality group FaceShift and image recognition company Fashwell — led Apple to build a research laboratory, known as its “Vision Lab”, in the city.
+
+Zurich-based employees have been involved in Apple’s research into the underlying technology that powers products such as OpenAI’s ChatGPT chatbot. Their papers have focused on ever more advanced AI models that incorporate text and visual inputs to produce responses to queries.
+
+The company has been advertising jobs in generative AI across two locations in Zurich, one of which has a particularly low profile. A neighbour told the FT they were not even aware of the office’s existence. Apple did not respond to requests to comment.
+
+Apple has been typically tight-lipped about its AI plans even as big tech rivals Microsoft, Google and Amazon tout multibillion-dollar investments in the cutting-edge technology.
+
+Its shares have slipped since the start of the year, while rivals’ stocks have soared, adding pressure on the tech giant to announce game-changing AI features that could boost device sales.
+
+Industry insiders suggest Apple is focused on deploying generative AI on its mobile devices, a breakthrough that would allow AI chatbots and apps to run on the phone’s own hardware and software rather than be powered by cloud services in data centres.
+
+Chief executive Tim Cook has told analysts Apple “has been doing research across a wide range of AI technologies” and investing and innovating “responsibly” around the new technology.
+
+However, the tech group has developed AI products for more than a decade, such as its voice assistant Siri. The company has long been aware of the potential of “neural networks” — a form of AI inspired by the way neurons interact in the human brain and a technology that underpins breakthrough products such as ChatGPT.
+
+Chuck Wooters, an expert in conversational AI and large language models who joined Apple in December 2013 and worked on Siri for almost two years, said: “During the time that I was there, one of the pushes that was happening in the Siri group was to move to a neural architecture for speech recognition. Even back then, before large language models took off, they were huge advocates of neural networks.”
+
+That interest appears to have led Apple to researchers who were the driving force behind neural networks which power AI models.
+
+In 2016, Apple acquired Perceptual Machines, a company founded by Ruslan Salakhutdinov and two of his students at Carnegie Mellon University, which worked on generative AI-powered image detection.
+
+“Around that time they were hunting quite a few researchers and trying to build the infrastructure for training these models,” Salakhutdinov told the FT.
+
+Salakhutdinov is a key figure in the history of neural networks, and studied at the University of Toronto under the “godfather” of the technology, Geoffrey Hinton, who left Google last year citing concerns about the dangers of generative AI. Salakhutdinov worked as director of AI research at Apple until 2020, when he returned to academia at Carnegie Mellon.
+
+Apple’s top AI team is now made up of former key figures from Google, including Giannandrea, who previously oversaw Google Brain, the search company’s AI lab which has since been merged with DeepMind.
+
+Samy Bengio, senior director of AI and ML research, was formerly one of Google’s top AI scientists. Ruoming Pang, who leads Apple’s “Foundation Models” team working on LLMs, previously led Google’s AI speech recognition research.
+
+The company also once hired Ian Goodfellow, another deep learning pioneer, but he returned to Google in 2022, protesting against Apple’s return to work policy.
+
+Six former Google employees hired over the past two years were listed among the authors of a significant research paper published in March, in which Apple revealed it had developed a family of AI models known as “MM1” that use text and visual inputs to generate responses.
+
+Apple has also bought about two dozen AI start-ups in the past 10 years, focused on the application of AI reasoning to image and video recognition, data processing, search capabilities and music content curation.
+
+Of these, founders from Musicmetric, Emotient, Silk Labs, PullString, CamerAI, Fashwell, Spectral Edge, Inductiv Inc, Vilynx, AI Music and WaveOne all still work at Apple, according to their LinkedIn profiles.
+
+Salakhutdinov said Apple had been focused on doing “as much as you can on the device”, which will bring th
+
+e need for more powerful chips with so-called dynamic random access memory (Dram) that can handle the vast amount of data required to power AI models.
+
+
+“The next big thing is going to be ‘AI smartphones’ — and these will require a lot more Dram,” said Sumit Sadana, executive vice-president and chief business officer of Micron Technology, one of Apple’s chip suppliers.
+
+Sadana added that the average smartphone memory chip today has less than the minimum needed to run an LLM on-device.
+
+Salakhutdinov said another reason for Apple’s slow AI rollout was the tendency of language models to provide incorrect or problematic answers. “I think they are just being a little bit more cautious because they can’t release something they can’t fully control,” he added.
+
+Apple’s foray into generative AI features may first be glimpsed at the company’s Worldwide Developers Conference in June.
+
+Erik Woodring, an analyst at Morgan Stanley, said the next iPhone “could become much more of a voice-activated, smart personal assistant, led by an upgraded Siri that could for example interact with all the apps on your phone through voice control”.
+
+He added: “What we’ll be looking for at WWDC are previews of one or two AI features that can become game changers for the average consumer.”
