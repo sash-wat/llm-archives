@@ -23,3 +23,5 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 ### Evaluation for JOUR389W
 
 PUT YOUR EVALUATION HERE
+Overall, this was really good tool and the output it produced was really strong. It correctly identified all the information that was relevant to the article, and then correctly identified the people and organizations mentioned in the article with correct attributions. This is probably the best output (on a small scale) that we have seen from a generative AI model in this class.
+If my publication (FT) had access to this, it is plausible that we could use the outputs provided by a script like story.py as a way to generate tags and file away stories for faster access across some sort of database. For example, the publication could count and quickly show a table of all the stories they've published mentioned Carnegie Mellon University.
